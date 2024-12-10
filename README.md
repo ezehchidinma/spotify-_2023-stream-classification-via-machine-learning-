@@ -46,3 +46,24 @@ scikit-learn
 matplotlib
 
 seaborn
+
+# Future Work
+
+Future enhancements to this project could include:
+
+1. Incorporating more features like tempo and key.
+
+2. Experimenting with more advanced algorithms such as XGBoost.
+
+3. Building a recommendation system based on the classification results.
+
+# Conclusion
+The project successfully classified songs based on their streams with promising accuracy.
+Feature importance analysis highlighted that speechiness and energy were significant predictors of a song's popularity.
+
+# Evaluation
+The linear regression model was evaluated using the following metrics:
+
+Mean Squared Error (MSE): Measures the average squared difference between actual and predicted values.
+
+R² Score: Indicates the proportion of variance in the dependent variable that is predictable from the independent variables.
