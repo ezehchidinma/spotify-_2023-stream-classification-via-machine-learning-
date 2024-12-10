@@ -1,8 +1,8 @@
-# Introduction###
+# Introduction
 The Spotify Streams Classification project is designed to provide insights into how different features of a song correlate with its popularity, measured by streams. 
 This can help music producers and enthusiasts understand what makes a song successful on streaming platforms.
 
-# Dataset###
+# Dataset
 The dataset used in this project was obtained from [kaggle]. It contains various features of songs including:
 
 . speechiness
@@ -21,7 +21,7 @@ The dataset used in this project was obtained from [kaggle]. It contains various
 
 . liveness
 
-# Data Preprocessing###
+# Data Preprocessing
 
 Before building the model, the data was cleaned and preprocessed. The steps included:
 
